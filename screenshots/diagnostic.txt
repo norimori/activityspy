@@ -1,0 +1,68 @@
+01-20 00:08:03.622    9255-9255/? I/MainActivity﹕ onCreate event fired
+01-20 00:08:03.623    9255-9255/? I/MainActivity﹕ onResume event fired
+01-20 00:08:16.163    9255-9255/? I/MainActivity﹕ onPause event fired
+01-20 00:08:16.176    9255-9255/? I/MainActivity﹕ onStop event fired
+01-20 00:08:19.265    9255-9255/? I/MainActivity﹕ onRestart event fired
+01-20 00:08:19.268    9255-9255/? I/MainActivity﹕ onResume event fired
+01-20 00:08:24.259    9255-9255/? I/MainActivity﹕ onPause event fired
+01-20 00:08:24.280    9255-9255/? I/MainActivity﹕ onStop event fired
+01-20 00:08:29.946    9255-9255/? I/MainActivity﹕ onRestart event fired
+01-20 00:08:29.951    9255-9255/? I/MainActivity﹕ onResume event fired
+01-20 00:08:32.512    9255-9255/? I/MainActivity﹕ onPause event fired
+01-20 00:08:32.576    9255-9255/? I/MainActivity﹕ onStop event fired
+01-20 00:08:33.537    9255-9255/? I/MainActivity﹕ onRestart event fired
+01-20 00:08:33.543    9255-9255/? I/MainActivity﹕ onResume event fired
+01-20 00:08:35.519    9255-9255/? I/MainActivity﹕ onPause event fired
+01-20 00:08:36.013    9255-9255/? I/MainActivity﹕ onStop event fired
+01-20 00:08:36.013    9255-9255/? E/MainActivity﹕ We're going down, Captain!
+01-20 00:08:41.328    9255-9255/? I/MainActivity﹕ onCreate event fired
+01-20 00:08:41.334    9255-9255/? I/MainActivity﹕ onResume event fired
+01-20 00:08:42.826    9255-9255/? I/MainActivity﹕ onPause event fired
+01-20 00:08:42.845    9255-9255/? I/MainActivity﹕ onStop event fired
+01-20 00:08:43.672    9255-9255/? I/MainActivity﹕ onRestart event fired
+01-20 00:08:43.677    9255-9255/? I/MainActivity﹕ onResume event fired
+01-20 00:08:44.662    9255-9255/? I/MainActivity﹕ onPause event fired
+01-20 00:08:45.057    9255-9255/? I/MainActivity﹕ onStop event fired
+01-20 00:08:45.057    9255-9255/? E/MainActivity﹕ We're going down, Captain!
+01-20 00:09:15.010    9866-9866/? I/MainActivity﹕ onCreate event fired
+01-20 00:09:15.019    9866-9866/? I/MainActivity﹕ onResume event fired
+01-20 00:09:19.147    9866-9866/? I/MainActivity﹕ onPause event fired
+01-20 00:09:19.167    9866-9866/? I/MainActivity﹕ onStop event fired
+01-20 00:10:31.970  10195-10195/edu.washington.norimori.activityspy I/MainActivity﹕ onCreate event fired
+01-20 00:10:31.970  10195-10195/edu.washington.norimori.activityspy I/MainActivity﹕ onResume event fired
+01-20 00:10:35.866  10195-10195/edu.washington.norimori.activityspy I/MainActivity﹕ onPause event fired
+01-20 00:10:35.896  10195-10195/edu.washington.norimori.activityspy I/MainActivity﹕ onStop event fired
+01-20 00:10:40.644  10195-10195/edu.washington.norimori.activityspy I/MainActivity﹕ onRestart event fired
+01-20 00:10:40.650  10195-10195/edu.washington.norimori.activityspy I/MainActivity﹕ onResume event fired
+01-20 00:10:44.965  10195-10195/edu.washington.norimori.activityspy I/MainActivity﹕ onPause event fired
+01-20 00:10:45.346  10195-10195/edu.washington.norimori.activityspy I/MainActivity﹕ onStop event fired
+01-20 00:10:45.346  10195-10195/edu.washington.norimori.activityspy E/MainActivity﹕ We're going down, Captain!
+01-20 00:11:02.112  10347-10347/edu.washington.norimori.activityspy I/MainActivity﹕ onCreate event fired
+01-20 00:11:02.113  10347-10347/edu.washington.norimori.activityspy I/MainActivity﹕ onResume event fired
+01-20 00:11:06.077  10347-10347/edu.washington.norimori.activityspy I/MainActivity﹕ onPause event fired
+01-20 00:11:06.100  10347-10347/edu.washington.norimori.activityspy I/MainActivity﹕ onStop event fired
+01-20 00:11:07.210  10347-10347/edu.washington.norimori.activityspy I/MainActivity﹕ onRestart event fired
+01-20 00:11:07.218  10347-10347/edu.washington.norimori.activityspy I/MainActivity﹕ onResume event fired
+01-20 00:11:08.153  10347-10347/edu.washington.norimori.activityspy I/MainActivity﹕ onPause event fired
+01-20 00:11:08.560  10347-10347/edu.washington.norimori.activityspy I/MainActivity﹕ onStop event fired
+01-20 00:11:08.560  10347-10347/edu.washington.norimori.activityspy E/MainActivity﹕ We're going down, Captain!
+01-20 00:11:20.435  10347-10347/edu.washington.norimori.activityspy I/MainActivity﹕ onCreate event fired
+01-20 00:11:20.436  10347-10347/edu.washington.norimori.activityspy I/MainActivity﹕ onResume event fired
+01-20 00:11:23.899  10347-10347/edu.washington.norimori.activityspy I/MainActivity﹕ onPause event fired
+01-20 00:11:23.921  10347-10347/edu.washington.norimori.activityspy I/MainActivity﹕ onStop event fired
+01-20 00:11:27.271  10347-10347/? E/MainActivity﹕ We're going down, Captain!
+01-20 00:11:38.423  10562-10562/edu.washington.norimori.activityspy I/MainActivity﹕ onCreate event fired
+01-20 00:11:38.424  10562-10562/edu.washington.norimori.activityspy I/MainActivity﹕ onResume event fired
+01-20 00:11:42.512  10562-10562/edu.washington.norimori.activityspy I/MainActivity﹕ onPause event fired
+01-20 00:11:42.524  10562-10562/edu.washington.norimori.activityspy I/MainActivity﹕ onStop event fired
+01-20 00:11:48.961  10619-10619/edu.washington.norimori.activityspy I/MainActivity﹕ onCreate event fired
+01-20 00:11:48.962  10619-10619/edu.washington.norimori.activityspy I/MainActivity﹕ onResume event fired
+01-20 00:11:50.512  10619-10619/edu.washington.norimori.activityspy I/MainActivity﹕ onPause event fired
+01-20 00:11:50.919  10619-10619/edu.washington.norimori.activityspy I/MainActivity﹕ onStop event fired
+01-20 00:11:50.920  10619-10619/edu.washington.norimori.activityspy E/MainActivity﹕ We're going down, Captain!
+01-20 00:11:55.979  10619-10619/edu.washington.norimori.activityspy I/MainActivity﹕ onCreate event fired
+01-20 00:11:55.986  10619-10619/edu.washington.norimori.activityspy I/MainActivity﹕ onResume event fired
+01-20 00:12:10.716  10619-10619/edu.washington.norimori.activityspy I/MainActivity﹕ onPause event fired
+01-20 00:12:17.138  10619-10619/edu.washington.norimori.activityspy I/MainActivity﹕ onResume event fired
+01-20 00:12:38.730  10619-10619/edu.washington.norimori.activityspy I/MainActivity﹕ onPause event fired
+01-20 00:12:38.748  10619-10619/edu.washington.norimori.activityspy I/MainActivity﹕ onStop event fired
